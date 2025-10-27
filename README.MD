@@ -13,7 +13,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/psilvautomata/Ebook-IA-DIO/blob/2903cf10a97d6a8db60f4a315238657a29ff0381/output/EbookHistoriaHotWheels.pptx" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -25,8 +25,8 @@ seguem abaixo.
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |                                             |
+|   Ação   | prompt |
+
 | conteúdo | Estou criando um ebook virtual sobre a história da hot wheels. Me fale separando por capítulos sobre: Elliot e Ruth, história do casal. Elliot fracassando em suas invenções, enquato ruth criou a Barbie e manteve a empresa por anos. Elliot continuou buscando sempre novas invenções para alcançar o sucesso da esposa o que era inadmissível na época. Então viu seu neto brincando com Matchbox sobre mesa do escritório e se questionou se aquilo era realmente os mais rápidos do mercado e porque dominavam| então daí surgiu a ideia de criar os hot wheels, rodas quentes, brinquedos velozes que trariam uma imersão muito maior para as crianças e revolucionaria o mercado.| Contratou um ex design da GM para criar os primeiros hot wheels, sweet 16, com protótipo branco camaro custom, Fale sobre successo da marca e que o protótipo da beach bomb rosa hoje em dia é considerado o hot wheels mais valioso da história |
 
 
